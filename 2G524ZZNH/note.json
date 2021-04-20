@@ -1,0 +1,69 @@
+{
+  "paragraphs": [
+    {
+      "text": "%python\n\nprint(\"Welcome AI bot\")",
+      "user": "admin",
+      "dateUpdated": "2021-04-20 22:20:36.219",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Welcome AI bot\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1618937405927_-299894380",
+      "id": "20210420-222005_1046674314",
+      "dateCreated": "2021-04-20 22:20:05.927",
+      "dateStarted": "2021-04-20 22:20:36.250",
+      "dateFinished": "2021-04-20 22:20:38.069",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%python\n",
+      "user": "admin",
+      "dateUpdated": "2021-04-20 22:20:36.224",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1618937436223_882029339",
+      "id": "20210420-222036_49046197",
+      "dateCreated": "2021-04-20 22:20:36.223",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "notebook1",
+  "id": "2G524ZZNH",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "python:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
