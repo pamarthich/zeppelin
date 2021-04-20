@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%sh\ncd /Users/krishnapamarthi/Data/mg/zeppelin\ngit status\ngit push",
+      "text": "%sh\ncd /Users/krishnapamarthi/Data/mg/zeppelin\ngit config user.name user2\n\ngit add -A\ngit commit -m \"added script-3\"\ngit status\ngit push",
       "user": "admin",
-      "dateUpdated": "2021-04-20 22:26:56.967",
+      "dateUpdated": "2021-04-20 22:46:54.725",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -20,22 +20,14 @@
         "params": {},
         "forms": {}
       },
-      "results": {
-        "code": "SUCCESS",
-        "msg": [
-          {
-            "type": "TEXT",
-            "data": "On branch master\nYour branch is based on \u0027origin/master\u0027, but the upstream is gone.\n  (use \"git branch --unset-upstream\" to fixup)\n\nUntracked files:\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\n\t2G3HNA3V9/\n\nnothing added to commit but untracked files present (use \"git add\" to track)\nTo github.com:pamarthich/zeppelin.git\n * [new branch]      master -\u003e master\n"
-          }
-        ]
-      },
       "apps": [],
       "jobName": "paragraph_1618937771579_-1526128631",
       "id": "20210420-222611_2088047673",
       "dateCreated": "2021-04-20 22:26:11.579",
-      "dateStarted": "2021-04-20 22:26:56.992",
-      "dateFinished": "2021-04-20 22:27:03.315",
+      "dateStarted": "2021-04-20 22:37:56.944",
+      "dateFinished": "2021-04-20 22:38:01.306",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -52,6 +44,7 @@
       "id": "20210420-222656_918936238",
       "dateCreated": "2021-04-20 22:26:56.968",
       "status": "READY",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     }
   ],
