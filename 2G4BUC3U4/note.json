@@ -1,0 +1,43 @@
+{
+  "paragraphs": [
+    {
+      "text": "%python\n\n",
+      "user": "admin",
+      "dateUpdated": "2021-04-20 22:41:56.201",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1618938701900_1108944572",
+      "id": "20210420-224141_1170266863",
+      "dateCreated": "2021-04-20 22:41:41.900",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "multi-user-2",
+  "id": "2G4BUC3U4",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "python:shared_process": [],
+    "sh:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
