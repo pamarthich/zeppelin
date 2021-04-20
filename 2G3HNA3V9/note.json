@@ -3,7 +3,7 @@
     {
       "text": "%sh\ncd /Users/krishnapamarthi/Data/mg/zeppelin\ngit config user.name user2\n\ngit add -A\ngit commit -m \"added script-3\"\ngit status\ngit push",
       "user": "admin",
-      "dateUpdated": "2021-04-20 22:46:54.725",
+      "dateUpdated": "2021-04-20 22:51:44.811",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -24,8 +24,8 @@
       "jobName": "paragraph_1618937771579_-1526128631",
       "id": "20210420-222611_2088047673",
       "dateCreated": "2021-04-20 22:26:11.579",
-      "dateStarted": "2021-04-20 22:37:56.944",
-      "dateFinished": "2021-04-20 22:38:01.306",
+      "dateStarted": "2021-04-20 22:46:54.757",
+      "dateFinished": "2021-04-20 22:46:58.792",
       "status": "FINISHED",
       "errorMessage": "",
       "progressUpdateIntervalMs": 500
